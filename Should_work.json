@@ -1,0 +1,272 @@
+{
+    "name": "ClearVision v1.2.6 - Nature Edition",
+    "description": "Clear Vision, now with a nature-inspired theme.",
+    "authors": [
+        {
+            "name": "Taki_Shiwa, edited by Sunny & Ash",
+            "id": "466968658997149706"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#3b5b4e",
+            "#3b5b4e",
+            "#3b5b4e"
+        ],
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#5a7d57",
+            "#375942",
+            "#5a7d57"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1c3a2e",
+            "#1c3a2e",
+            "#1c3a2e"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#8fa8821a",
+            "#4a6b5a1a",
+            "#8fa8821a"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#8fa8821a",
+            "#4a6b5a1a",
+            "#8fa8821a"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#8fa8821a",
+            "#4a6b5a1a",
+            "#8fa8821a"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#10271d",
+            "#10271d",
+            "#10271d"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#10271d",
+            "#10271d",
+            "#10271d"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#799276",
+            "#799276",
+            "#799276"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#334937",
+            "#334937",
+            "#334937"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#3b5b4e26",
+            "#10271d26",
+            "#3b5b4e26"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#3b5b4e26",
+            "#10271d26",
+            "#3b5b4e26"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#3b5b4e99",
+            "#3b5b4e99",
+            "#3b5b4e99"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1a3f2f",
+            "#d0e3d4",
+            "#000000"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#10271d",
+            "#10271d",
+            "#10271d"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#15342b",
+            "#15342b",
+            "#15342b"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#182f25",
+            "#182f25",
+            "#182f25"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0e2b1e",
+            "#0e2b1e",
+            "#0e2b1e"
+        ],
+        "BG_BACKDROP": [
+            "#1c3a2eb3",
+            "#1c3a2eb3",
+            "#1c3a2eb3"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#0a1c12",
+            "#0a1c12",
+            "#0a1c12"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#0a1c12",
+            "#0a1c12",
+            "#0a1c12"
+        ],
+        "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+            "#1a3f2f",
+            "#d0e3d4",
+            "#000000"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#0a1c12",
+            "#0a1c12",
+            "#0a1c12"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#0a1c12",
+            "#0a1c12",
+            "#0a1c12"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#6b7e6c",
+            "#6b7e6c",
+            "#6b7e6c"
+        ],
+        "CHANNEL_ICON": [
+            "#578364",
+            "#578364",
+            "#578364"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#92af97",
+            "#92af97",
+            "#92af97"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#1a3f2f",
+            "#d0e3d4",
+            "#000000"
+        ],
+        "DEPRECATED_CARD_BG": [
+            "#1a3f2f",
+            "#d0e3d4",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_BG": [
+            "#1a3f2f",
+            "#d0e3d4",
+            "#000000"
+        ],
+        "ELEVATION_HIGH": [
+            "#1a3f2f",
+            "#d0e3d4",
+            "#000000"
+        ],
+        "ELEVATION_LOW": [
+            "#1a3f2f",
+            "#d0e3d4",
+            "#000000"
+        ],
+        "HEADER_PRIMARY": [
+            "#d0e3d4",
+            "#1a3f2f",
+            "#d0e3d4"
+        ],
+        "HEADER_SECONDARY": [
+            "#5a7d57",
+            "#5a7d57",
+            "#5a7d57"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#1a3f2f",
+            "#d0e3d4",
+            "#112b21"
+        ],
+        "INFO_DANGER_TEXT": [
+            "#a54647",
+            "#6b3436",
+            "#a54647"
+        ],
+        "INFO_POSITIVE_BACKGROUND": [
+            "#1a3f2f",
+            "#d0e3d4",
+            "#000000"
+        ],
+        "INFO_POSITIVE_TEXT": [
+            "#92af97",
+            "#1a3f2f",
+            "#92af97"
+        ],
+        "INPUT_BACKGROUND": [
+            "#1c3a2e",
+            "#1c3a2e",
+            "#1c3a2e"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#5a7d57",
+            "#5a7d57",
+            "#5a7d57"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#92af97",
+            "#92af97",
+            "#92af97"
+        ],
+        "LOGO_PRIMARY": [
+            "#8fa882",
+            "#4a6b5a",
+            "#8fa882"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#3b5b4e",
+            "#295442",
+            "#3b5b4e"
+        ],
+        "STATUS_POSITIVE_TEXT": [
+            "#d0e3d4",
+            "#1a3f2f",
+            "#d0e3d4"
+        ],
+        "TEXT_NORMAL": [
+            "#d0e3d4",
+            "#d0e3d4",
+            "#d0e3d4"
+        ],
+        "TEXT_POSITIVE": [
+            "#6f8d6c",
+            "#4e6c52",
+            "#6f8d6c"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#4d6e55",
+        "PRIMARY_200": "#92af97",
+        "PRIMARY_400": "#284c3a",
+        "PRIMARY_500": "#3a5f4e",
+        "PRIMARY_600": "#1c3a2e",
+        "PRIMARY_900": "#1a3f2f",
+        "GREEN_360": "#6f8d6c",
+        "WHITE_500": "#d0e3d4",
+        "PLUM_20": "#182f25",
+        "PLUM_16": "#13271e",
+        "PLUM_22": "#15342b"
+    },
+    "background": {
+        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/main/ClearVision/Vendetta/eOIFmqY.jpeg",
+        "alpha": 0.25
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#1c3a2e",
+            "ic_mic_muted_neutral": "#1c3a2e",
+            "ic_soundboard": "#1c3a2e",
+            "ic_video": "#1c3a2e",
+            "ic_video_disabled": "#1c3a2e"
+        },
+        "iconpack": "nature-cord"
+    },
+    "spec": 2
+}
