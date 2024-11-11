@@ -1,49 +1,67 @@
 {
-    "name": "GreenVision",
-    "description": "A serene, nature-inspired theme.",
-    "authors": [{"name": "Taki_Shiwa, edited by Sunny", "id": "466968658997149706"}],
+    "name": "GreenHaven v1.2.6",
+    "description": "A calming, nature-inspired theme.",
+    "authors": [
+        {
+            "name": "Taki_Shiwa, edited by Sunny",
+            "id": "466968658997149706"
+        }
+    ],
     "semanticColors": {
-        "ANDROID_RIPPLE": ["#4CAF50", "#4CAF50", "#4CAF50"],
-        "ACTIVITY_CARD_BACKGROUND": ["#388E3C", "#2C6F2F", "#388E3C"],
-        "BACKGROUND_FLOATING": ["#1B5E20", "#1B5E20", "#1B5E20"],
-        "BACKGROUND_MENTIONED": ["#8BC34A", "#6B8E23", "#8BC34A"],
-        "BACKGROUND_MESSAGE_HOVER": ["#689F38", "#556B2F", "#689F38"],
-        "BACKGROUND_PRIMARY": ["#1B5E20", "#1B5E20", "#1B5E20"],
-        "BACKGROUND_SECONDARY": ["#2E7D32", "#2E7D32", "#2E7D32"],
-        "BACKGROUND_ACCENT": ["#81C784", "#81C784", "#81C784"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#388E3C", "#2C6F2F", "#388E3C"],
-        "CHANNEL_ICON": ["#66BB6A", "#66BB6A", "#66BB6A"],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#A5D6A7", "#A5D6A7", "#A5D6A7"],
-        "CHANNELTEXTAREA_BACKGROUND": ["#388E3C", "#388E3C", "#388E3C"],
-        "INPUT_BACKGROUND": ["#4CAF50", "#4CAF50", "#4CAF50"],
-        "INTERACTIVE_ACTIVE": ["#66BB6A", "#66BB6A", "#66BB6A"],
-        "INTERACTIVE_HOVER": ["#81C784", "#81C784", "#81C784"],
-        "MODAL_FOOTER_BACKGROUND": ["#388E3C", "#A5D6A7", "#4CAF50"],
-        "SCROLLBAR_AUTO_THUMB": ["#66BB6A", "#66BB6A", "#66BB6A"],
-        "SCROLLBAR_AUTO_TRACK": ["#388E3C", "#A5D6A7", "#4CAF50"],
-        "TEXT_NORMAL": ["#DCEDC8", "#DCEDC8", "#DCEDC8"],
-        "TEXT_WARNING": ["#FFEB3B", "#FFEB3B", "#FFEB3B"],
-        "TEXT_DANGER": ["#D32F2F", "#D32F2F", "#D32F2F"]
+        "BACKGROUND_PRIMARY": ["#1e3d32", "#1e3d32", "#1e3d32"],
+        "BACKGROUND_SECONDARY": ["#2b4a3f", "#2b4a3f", "#2b4a3f"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#467d63", "#467d63", "#467d63"],
+        "BACKGROUND_MODIFIER_HOVER": ["#5c9e7c", "#5c9e7c", "#5c9e7c"],
+        "BACKGROUND_NESTED_FLOATING": ["#1a362d", "#5b7160", "#1a362d"],
+        "BACKGROUND_ACCENT": ["#87bb89", "#87bb89", "#87bb89"],
+        "BACKGROUND_TERTIARY": ["#324e41", "#324e41", "#324e41"],
+        "BACKGROUND_FLOATING": ["#3a5730", "#3a5730", "#3a5730"],
+        "CARD_PRIMARY_BG": ["#2d523d", "#2d523d", "#2d523d"],
+        "CARD_SECONDARY_BG": ["#4a6f56", "#4a6f56", "#4a6f56"],
+        "TEXT_NORMAL": ["#e5e9e4", "#e5e9e4", "#e5e9e4"],
+        "TEXT_DANGER": ["#ff5959", "#ff5959", "#ff5959"],
+        "TEXT_POSITIVE": ["#689d6a", "#427b58", "#689d6a"],
+        "TEXT_MUTED": ["#8c9a83", "#8c9a83", "#8c9a83"],
+        "CHANNELS_DEFAULT": ["#476d5d", "#476d5d", "#476d5d"],
+        "CHANNEL_ICON": ["#4b8f73", "#4b8f73", "#4b8f73"],
+        "INTERACTIVE_NORMAL": ["#a7c3b6", "#a7c3b6", "#a7c3b6"],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#b0d2b0", "#b0d2b0", "#b0d2b0"],
+        "EMBED_BACKGROUND": ["#3b5e48", "#3b5e48", "#3b5e48"],
+        "HEADER_PRIMARY": ["#a3cfa1", "#a3cfa1", "#a3cfa1"],
+        "HEADER_SECONDARY": ["#4a8b6f", "#4a8b6f", "#4a8b6f"],
+        "FOCUS_PRIMARY": ["#467d63", "#467d63", "#467d63"]
     },
     "rawColors": {
-        "PRIMARY_100": "#81C784",
-        "PRIMARY_200": "#66BB6A",
-        "PRIMARY_300": "#4CAF50",
-        "PRIMARY_400": "#388E3C",
-        "PRIMARY_500": "#2C6F2F",
-        "PRIMARY_600": "#1B5E20",
-        "PRIMARY_700": "#0D3B18",
+        "PRIMARY_100": "#4b8f73",
+        "PRIMARY_130": "#6fa87d",
+        "PRIMARY_200": "#87bb89",
+        "PRIMARY_300": "#7a9c7a",
+        "PRIMARY_400": "#4a6f56",
+        "PRIMARY_500": "#467d63",
+        "PRIMARY_600": "#324e41",
+        "PRIMARY_700": "#3a5730",
+        "PRIMARY_800": "#1e3d32",
+        "PRIMARY_900": "#2b4a3f",
         "BLACK_500": "#000000",
-        "WHITE_500": "#DCEDC8",
-        "GREEN_360": "#689F38"
+        "WHITE_500": "#e5e9e4",
+        "GREEN_360": "#689d6a"
     },
     "background": {
-        "url": "https://example.com/green-nature-bg.jpg",
-        "alpha": 0.25
+        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/main/ClearVision/Vendetta/eOIFmqY.jpeg",
+        "alpha": 0.2
     },
     "plus": {
         "version": 0,
         "customOverlays": true,
-        "iconpack": "nature-icons"
-    }
+        "icons": {
+            "ic_mic_neutral": "#467d63",
+            "ic_mic_muted_neutral": "#467d63",
+            "ic_soundboard": "#467d63",
+            "ic_soundboard_muted": "#467d63",
+            "ic_video": "#467d63",
+            "ic_video_disabled": "#467d63"
+        },
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
 }
