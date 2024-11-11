@@ -41,7 +41,16 @@
         "TEXTAREA_BACKGROUND": ["#1a2f25", "#1a2f25", "#1a2f25"],
         "TEXTAREA_PLACEHOLDER": ["#8b9f92", "#8b9f92", "#8b9f92"],
         "INPUT_BORDER": ["#355b49", "#355b49", "#355b49"],
-        "TOOLTIP_BACKGROUND": ["#2f4f40", "#2f4f40", "#2f4f40"]
+        "TOOLTIP_BACKGROUND": ["#2f4f40", "#2f4f40", "#2f4f40"],
+        "DM_PAGE_BACKGROUND": ["#25442e", "#25442e", "#25442e"],
+        "RADIO_BUTTON_UNCHECKED": ["#4e7e63", "#4e7e63", "#4e7e63"],
+        "RADIO_BUTTON_CHECKED": ["#76b88a", "#76b88a", "#76b88a"],
+        "CHECKBOX_UNCHECKED": ["#4e7e63", "#4e7e63", "#4e7e63"],
+        "CHECKBOX_CHECKED": ["#76b88a", "#76b88a", "#76b88a"],
+        "SWITCH_OFF": ["#355b49", "#355b49", "#355b49"],
+        "SWITCH_ON": ["#4e7e63", "#4e7e63", "#4e7e63"],
+        "PROGRESS_BAR_BG": ["#3b6e4d", "#3b6e4d", "#3b6e4d"],
+        "PROGRESS_BAR_FILL": ["#5c8f62", "#5c8f62", "#5c8f62"]
     },
     "rawColors": {
         "PRIMARY_100": "#5b9f73",
